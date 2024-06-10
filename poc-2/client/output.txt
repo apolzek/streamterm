@@ -1,0 +1,11 @@
+
+]0;apolzek@xxmachine:~/Workdir/github.com/apolzek/streamterm/new/client[?2004h[apolzek@xxmachine client]$ exit^C[?2004l
+[?2004h[?2004l
+
+]0;apolzek@xxmachine:~/Workdir/github.com/apolzek/streamterm/new/client[?2004h[apolzek@xxmachine client]$ pwd
+[?2004l
+/home/apolzek/Workdir/github.com/apolzek/streamterm/new/client
+]0;apolzek@xxmachine:~/Workdir/github.com/apolzek/streamterm/new/client[?2004h[apolzek@xxmachine client]$ exit
+[?2004l
+exit
+
